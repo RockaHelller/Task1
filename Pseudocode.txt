@@ -1,0 +1,7 @@
+input m,n
+  m=10
+    n % 2 == 1
+      n += m
+        print "n"
+      else 
+        print "n is even"
